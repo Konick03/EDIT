@@ -101,19 +101,43 @@ transition: 0.4s;
 }
 
 .body {
-	background: #999999
+	background: #999999;
+	margin: 0px 100px 100px 100px;
 }
 
 
+.zag {
+	text-align: center;
+	padding: 50px 50px 50px 50px;
+	font-family: cooperoriginal;
+}
 
 
+.text {
+	padding: 20px 70px 70px 0px;
+	font-size: 50px
+	text-align: justify;
+	justify-content: space-between;
+	font-family: arial
+}
 
+.div1 {
+	text-align: center;
+	font-size: 30px;
+	float: right;
+	justify-content: space-between;
+}
 
+.photo {
+	width: 200px;
+	padding: 50px;
+	float: right;
+}
 
-
-
-
-
+.photo2 {
+	width: 600px;
+	padding: 100px;
+}
 
 
 
